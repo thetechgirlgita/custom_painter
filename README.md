@@ -1,10 +1,13 @@
-# custom_painter
-
-A new Flutter application.
+# Custom_painter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
+This project is a starting point for a Flutter Custom Painter.
+### Custom Painter is :
+ ----------------------------------------------------------------------------
+ | A widget that provides a canvas on which to draw during the paint phase. |
+ -----------------------------------------------------------------------------
 
 A few resources to get you started if this is your first Flutter project:
 
